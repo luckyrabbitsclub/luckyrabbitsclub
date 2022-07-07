@@ -10,7 +10,7 @@ Each unique digital collectible unlocks:
 - IRL clubhouse in Fiji
 - Additional members-only benefits the longer you burrow, or hold, your NFT.
 
-Watch the [official trailer](https://www.youtube.com/watch?v=5_ZRIzKyk_o)
+## Watch the [official trailer](https://www.youtube.com/watch?v=5_ZRIzKyk_o)
 
 ## Official Links
 
@@ -18,7 +18,9 @@ Watch the [official trailer](https://www.youtube.com/watch?v=5_ZRIzKyk_o)
 - Twitter: [@luckyrabbitsio](https://twitter.com/luckyrabbitsio)
 - Instagram: [@luckyrabbitsclub](https://www.instagram.com/luckyrabbitsclub/)
 
+---
+
 ## Dev Team
 
-- [TMT Labs](https://tmtlabs.xyz) [@tmtlabs](https://twitter.com/tmtlabs)
-- [TJ](https://github.com/tanujdamani) [@tanujdamani](https://twitter.com/tanujdamani)
+- [TMT Labs](https://tmtlabs.xyz), Twitter: [@tmtlabs](https://twitter.com/tmtlabs)
+- [TJ](https://github.com/tanujdamani), Twitter: [@tanujdamani](https://twitter.com/tanujdamani)
